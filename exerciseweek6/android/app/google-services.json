@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850181331486",
+    "project_id": "login-e4c7b",
+    "storage_bucket": "login-e4c7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850181331486:android:40338eaed9eb36c9e02c0f",
+        "android_client_info": {
+          "package_name": "com.example.exerciseweek6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwJHMMvYWtAwastFnm3WqhFWkf_RfCuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
